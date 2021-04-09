@@ -1,0 +1,11 @@
+---
+application:
+  name: "ignuxas"
+  project: "test1"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-ignuxas"
+  routes:
+  - application_name: "ignuxas"
+    paths:
+    - "/*"
