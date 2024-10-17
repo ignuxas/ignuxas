@@ -1,1 +1,1 @@
-Hey, I'm Ignas and I code
+I code ¯\_(ツ)_/¯
